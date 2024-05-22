@@ -7,7 +7,7 @@ This project simulates the core functionalities of an automated collection and r
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/bhartimeena/Python.git
     ```
 2. Navigate to the project directory:
     ```sh
